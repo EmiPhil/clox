@@ -6,5 +6,5 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(clox
-        dbllist.c
-        dbllist.h)
+        main.c
+        main.h)
