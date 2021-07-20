@@ -12,4 +12,4 @@ add_executable(clox
         memory.c
         memory.h
         chunk.c
-        chunk.h debug.c debug.h value.c value.h vm.c vm.h)
+        chunk.h debug.c debug.h value.c value.h vm.c vm.h compiler.c compiler.h scanner.c scanner.h)
